@@ -1,0 +1,46 @@
+.container{
+    border: 2px solid rgb(255, 255, 255);
+    height: auto;
+    width: 50%;
+    padding: 40px;
+    margin-top: 0px;
+    margin: 0 auto;
+    background-color: rgb(245, 245, 245);
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h2{
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#dot li{
+    margin-top: 10px;
+}
+
+#dot2 li{
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.klein{
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.img{
+ width: 400px;
+}
+
+footer {
+    padding: 25px;
+    font-size: 20px;
+    line-height: 26px;
+    border: 4px;
+    background-color: #def6ed
+}
