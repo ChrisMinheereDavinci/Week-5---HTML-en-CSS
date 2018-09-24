@@ -1,0 +1,8 @@
+.container{
+    border: 20px dashed rgb(255, 51, 0);
+    height: 200px;
+    width: 300px;
+    padding: 40px;
+    margin: 40px;
+    background-color: antiquewhite;
+}
